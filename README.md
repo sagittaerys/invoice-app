@@ -4,25 +4,7 @@ A fully responsive Invoice Management Application built with React and TypeScrip
 
 ---
 
-## Live Demo
 
-> _Deploy link goes here (Vercel / Netlify)_
-
-## Repository
-
-> _GitHub link goes here_
-
----
-
-## Screenshots
-
-| Light Mode | Dark Mode |
-|---|---|
-| Invoice list, filter dropdown, New Invoice button | Same layout with dark palette |
-| Slide-in form with Bill From / Bill To / Item List | Form overlaid on dark background |
-| Detail view with status bar and action buttons | Detail view in dark mode |
-
----
 
 ## Setup Instructions
 
@@ -41,7 +23,7 @@ npm install -g pnpm
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone git@github.com:sagittaerys/invoice-app.git
 cd invoice-app
 
 # 2. Install dependencies
@@ -51,7 +33,7 @@ pnpm install
 pnpm dev
 ```
 
-The app will be available at `http://localhost:5173`.
+The app will be available at `http://localhost:3000`.
 
 ### Other Scripts
 
